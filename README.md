@@ -2,8 +2,7 @@
 # S3 For XunRuiCMS
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-1.0.0-blue.svg)](../../releases/tag/v1.0.0)
-
+[![Release](https://img.shields.io/badge/Release-1.0-blue.svg)](../../releases/tag/v1.2)
 ---
 为迅睿CMS系统提供AWS S3云存储支持的插件
 

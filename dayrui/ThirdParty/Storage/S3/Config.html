@@ -11,7 +11,7 @@
     </div>
 </div>
 <div class="form-group r r7">
-    <label class="col-md-2 control-label">Region</label>
+    <label class="col-md-2 control-label">Region(地区代码)</label>
     <div class="col-md-9">
         <input type="text" class="form-control" name="data[value][7][region]" value="{$data['value']['region']}">
     </div>
@@ -23,9 +23,10 @@
     </div>
 </div>
 <div class="form-group r r7">
-    <label class="col-md-2 control-label">Endpoint（可选）</label>
+    <label class="col-md-2 control-label">Endpoint(地域节点)</label>
     <div class="col-md-9">
         <input type="text" class="form-control" name="data[value][7][endpoint]" value="{$data['value']['endpoint']}" placeholder="例如: https://s3.example.com">
+        <span class="help-block">存储桶的地域节点，请填写完整的URL</span>
     </div>
 </div>
 <div class="form-group r r7">
