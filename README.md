@@ -22,6 +22,7 @@
 ## 📖 使用方法
 1. 安装插件后，在迅睿CMS后台配置AWS S3相关信息
 2. 启用插件后，即可在迅睿CMS文件管理中使用AWS S3作为存储
+[查看文档](https://www.guoctang.com/code/GC4/docs)
 
 ## 📌 关于我
 - 作者: [陈延德](https://www.chenyande.com)
